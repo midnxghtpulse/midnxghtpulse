@@ -1,7 +1,6 @@
 # jd!
 
-information systems student at uesb
-data quality intern and aspiring data analyst
+information systems student at uesb // data quality intern and aspiring data analyst
 
 ## currently working with
 
