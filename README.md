@@ -27,4 +27,5 @@ information systems student at uesb // data quality intern and aspiring data ana
 ## about me
 
 i like understanding how things work, finding patterns in messy data, and turning analysis into something useful. outside of data, i'm really into mobas, basketball, the witcher and tabletop rpgs, especially d&d.
-currently learning, building projects and trying to get better at python, sql, power bi and everything around data.
+
+currently learning, building projects and trying to get better at python, sql, power bi and everything in between!
