@@ -9,6 +9,9 @@ information systems student at UESB // data quality intern and aspiring data ana
 - power bi
 - excel
 - pandas
+
+## and also familiar with
+
 - javascript
 - java
 - html
