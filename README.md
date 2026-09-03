@@ -1,7 +1,22 @@
-# hey there, i'm jd!  /\_
-#                    (` - 7
-#                    |  - \
-#                    じし_,)ノ
+<table>
+<tr>
+<td valign="middle">
+
+# hey there, i'm jd!
+
+</td>
+<td valign="middle">
+
+<pre>
+ /\_
+(` - 7
+|  - \
+じし_,)ノ
+</pre>
+
+</td>
+</tr>
+</table>
 
 information systems student at UESB // data quality intern and aspiring data analyst
 
