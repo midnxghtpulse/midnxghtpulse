@@ -1,6 +1,7 @@
-# hey there, i'm jd!  /\_/\
-( o.o )
- > ^ <
+# hey there, i'm jd!  /\_
+#                    (` - 7
+#                    |  - \
+#                    じし_,)ノ
 
 information systems student at UESB // data quality intern and aspiring data analyst
 
