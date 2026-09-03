@@ -1,20 +1,11 @@
-<tr>
-<td valign="middle">
-
 # hey there, i'm jd!
-
-</td>
-<td valign="middle">
 
 <pre>
  /\_
 (` - 7
-|  - \
+|, - \
 じし_,)ノ
 </pre>
-
-</td>
-</tr>
 
 information systems student at UESB // data quality intern and aspiring data analyst
 
