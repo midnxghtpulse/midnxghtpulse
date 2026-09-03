@@ -21,6 +21,7 @@ information systems student at UESB // data quality intern and aspiring data ana
 
 - [customer segmentation and cluster stability analysis](https://github.com/midnxghtpulse/customer-segmentation-monte-carlo)
 - [retail sales analytics](https://github.com/midnxghtpulse/retail-sales-analytics)
+- [labor law claims analysis](https://github.com/midnxghtpulse/labor-law-claims-analysis)
 
 ## currently building
 
