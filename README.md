@@ -25,8 +25,7 @@ information systems student at UESB // data quality intern and aspiring data ana
 
 ## currently building
 
-- labor law claims analysis (!!!)
-- data quality monitoring pipeline
+- data quality monitoring pipeline (!)
 - customer churn analysis
 
 ## about me!
