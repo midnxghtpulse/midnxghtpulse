@@ -16,7 +16,6 @@
 
 </td>
 </tr>
-</table>
 
 information systems student at UESB // data quality intern and aspiring data analyst
 
